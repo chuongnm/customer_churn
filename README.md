@@ -15,10 +15,11 @@ Objectives:
 
 Processes:
 1.  Data Transformation: Prepare and manipulate the data for analysis, ensuring it is suitable for building a predictive model.
-2.  Modeling: Develop a robust customer churn prediction model using machine learning algorithms.
-3.  Model Validation and Selection: Evaluate the performance of different models and select the one that best suits the project's objectives.
-4.  Prediction: Implement the chosen model to predict customer churn and provide actionable insights.
-5.  Data pipline creation: Create a data pipeline that can update the dashboards/reports automatically when new customer history data is collected.
+2.  Data exploration: Conduct an in-depth analysis of the prepared data to gain insights into customer behavior, identify patterns, and uncover potential influencing factors for churn.
+3.  Modeling: Develop a robust customer churn prediction model using machine learning algorithms.
+4.  Model Validation and Selection: Evaluate the performance of different models and select the one that best suits the project's objectives.
+5.  Prediction: Implement the chosen model to predict customer churn and provide actionable insights.
+6.  Data pipline creation: Create a data pipeline that can update the dashboards/reports automatically when new customer history data is collected.
 
 Deliverables:
 1.   Scripts in Python:
