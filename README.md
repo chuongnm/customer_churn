@@ -21,8 +21,8 @@ Processes:
 
 Deliverables:
 1.  Scripts in Python:
-a.    Detailing the data extraction, transformation, and loading processes.
-b.    Targeted audience: Data analysts/scientists.
+a. Detailing the data extraction, transformation, and loading processes.
+b. Targeted audience: Data analysts/scientists.
 3.  Presentation in PowerPoint:
 a.    Introduction: An overview of the project, its significance, and key objectives.
 b.    Key Results: Communicate the findings of the customer churn analysis, highlighting patterns and trends.
