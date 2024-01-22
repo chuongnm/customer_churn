@@ -20,13 +20,14 @@ Processes:
 
 Deliverables:
 1.  Scripts in Python:
-        Data ETL Processes: Python scripts detailing the data extraction, transformation, and loading processes. Targeted audience: Data analysts/scientists.
-2.  Presentation in PowerPoint:
+        Detailing the data extraction, transformation, and loading processes.
+        Targeted audience: Data analysts/scientists.
+3.  Presentation in PowerPoint:
         Introduction: An overview of the project, its significance, and key objectives.
         Key Results: Communicate the findings of the customer churn analysis, highlighting patterns and trends.
         Actionable Recommendations: Provide concrete suggestions for stakeholders, emphasizing the importance of utilizing the predictive models.
         Targeted audience: Managers, salespeople.
-3.  Dashboards using [Dashboard Tool]:
+4.  Dashboards using [Dashboard Tool]:
     Overall Churning Trend: A dashboard illustrating the general trend of customer churn over time.
     Predictive Probability Dashboard: A tool displaying the predicted probability that a specific customer is likely to churn.
     Targeted audience: Managers, salespeople.
