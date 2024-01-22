@@ -20,18 +20,18 @@ Processes:
 4.  Prediction: Implement the chosen model to predict customer churn and provide actionable insights.
 
 Deliverables:
-1.  Scripts in Python:
-   - Detailing the data extraction, transformation, and loading processes
-   - Targeted audience: Data analysts/scientists
-3.  Presentation in PowerPoint:
-a.    Introduction: An overview of the project, its significance, and key objectives.
-b.    Key Results: Communicate the findings of the customer churn analysis, highlighting patterns and trends.
-c.    Actionable Recommendations: Provide concrete suggestions for stakeholders, emphasizing the importance of utilizing the predictive models.
-d.    Targeted audience: Managers, salespeople.
-5.  Dashboards using [Dashboard Tool]:
-a.    Overall Churning Trend: A dashboard illustrating the general trend of customer churn over time.
-b.    Predictive Probability Dashboard: A tool displaying the predicted probability that a specific customer is likely to churn.
-c.    Targeted audience: Managers, salespeople.
+1.   Scripts in Python:
+-    Detailing the data extraction, transformation, and loading processes
+-    Targeted audience: Data analysts/scientists
+2.   Presntation in PowerPoint:
+-    Introduction: An overview of the project, its significance, and key objectives.
+-    Results: Communicate the findings of the customer churn analysis, highlighting patterns and trends.
+-    Actionable Recommendations: Provide concrete suggestions for stakeholders, emphasizing the importance of utilizing the predictive models.
+-    Targeted audience: Managers, salespeople.
+3.   Dashboards using [Dashboard Tool]:
+-    Churning Trend Dashboard: A dashboard illustrating the general trend of customer churn over time.
+-    Predictive Probability Dashboard: A tool displaying the predicted probability that a specific customer is likely to churn.
+-    Targeted audience: Managers, salespeople.
 
 By combining data analysis, machine learning, and effective communication, this project aims to empower stakeholders with the insights needed to address customer churn and improve overall business sustainability.
 Customer churn prediction
