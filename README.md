@@ -10,7 +10,8 @@ Data sources:
 
 Objectives:
 1.  Develop a customer churning model: Create a predictive model to assess the probability that a customer might churn from the company's products.
-2.  Develop real-time actionable recommendations: Build tools that offer immediate and practical suggestions for stakeholders to mitigate churn and enhance customer retention.
+2.  Advocate data-driven decisions using the results from this model.
+3.  Present real-time actionable recommendations: Build tools that offer immediate and practical suggestions for stakeholders to mitigate churn and enhance customer retention.
 
 Processes:
 1.  Data Transformation: Prepare and manipulate the data for analysis, ensuring it is suitable for building a predictive model.
