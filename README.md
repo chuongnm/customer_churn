@@ -25,7 +25,7 @@ Deliverables:
 1.   Scripts in Python:
 -    Detailing the data extraction, transformation, and loading processes
 -    Targeted audience: Data analysts/scientists
-2.   Presntation in PowerPoint:
+2.   Presentation in PowerPoint:
 -    Introduction: An overview of the project, its significance, and key objectives.
 -    Results: Communicate the findings of the customer churn analysis, highlighting patterns and trends.
 -    Actionable Recommendations: Provide concrete suggestions for stakeholders, emphasizing the importance of utilizing the predictive models.
